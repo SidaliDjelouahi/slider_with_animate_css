@@ -11,25 +11,25 @@
     <div class="item active">
       <div class="banner" style="background-image: url(images/1_1.jpg);"></div>
       <div class="carousel-caption">
-        <h2>For Your <span>Sites</span></h2>
-        <h3>Web Design & Developement</h3>
-        <p><a href="#">Contact us</a></p>
+        <h2 class="animated bounceInRight" style="animation-delay: 1s">For Your <span>Sites</span></h2>
+        <h3 class="animated bounceInLeft" style="animation-delay: 2s">Web Design & Developement</h3>
+        <p class="animated bounceInRight" style="animation-delay: 3s"><a href="#">Contact us</a></p>
       </div>
     </div>
     <div class="item">
       <div class="banner" style="background-image: url(images/2.jpg);"></div>
       <div class="carousel-caption">
-        <h2>For Your <span>Companies</span></h2>
-        <h3>Software & Application</h3>
-        <p><a href="#">Contact us</a></p>
+        <h2 class="animated slideInDown" style="animation-delay: 1s">For Your <span>Companies</span></h2>
+        <h3 class="animated fadeInUp" style="animation-delay: 2s">Software & Applications</h3>
+        <p class="animated zoomIn" style="animation-delay: 3s"><a href="#">Contact us</a></p>
       </div>
     </div>
     <div class="item">
       <div class="banner" style="background-image: url(images/3_1.jpg);"></div>
       <div class="carousel-caption">
-        <h2>For Your <span>Products</span></h2>
-        <h3>eCommerce & Management</h3>
-        <p><a href="#">Contact us</a></p>
+        <h2 class="animated zoomIn" style="animation-delay: 1s">For Your <span>Products</span></h2>
+        <h3 class="animated fadeInLeft" style="animation-delay: 2s">eCommerce & Management</h3>
+        <p class="animated zoomIn" style="animation-delay: 3s"><a href="#">Contact us</a></p>
       </div>
     </div>
     ...

@@ -5,6 +5,7 @@
 	<title>Home</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" type="text/css" href="includes/animate.min.css">
 	<link rel="stylesheet" type="text/css" href="includes/style.css">
 </head>
 <body>
